@@ -1,0 +1,130 @@
+
+[08/30/2023 01:01:51.442][INFO][LoadRegistryParameters] LogLevel is 4
+[08/30/2023 01:02:08.877][INFO][LoadRegistryParameters] LogLevel is 4
+[09/02/2023 10:12:54.984][INFO][LoadRegistryParameters] LogLevel is 4
+[09/02/2023 10:20:10.471][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:22:31.143][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:22:55.331][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:24:08.604][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:25:13.384][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:25:44.668][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:27:38.409][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:28:33.000][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:32:57.653][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:33:49.261][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:34:54.720][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:36:25.419][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:37:57.436][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:38:34.757][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:39:01.349][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:39:19.013][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:40:10.039][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:40:59.314][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:42:30.135][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:43:05.984][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:43:22.430][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:56:23.163][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:56:23.215][ERROR][main] Loading yugioh_icon.bmpx.bmpx failed!
+[09/03/2023 09:56:32.231][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 09:56:32.285][ERROR][main] Loading yugioh_icon.bmpx.bmpx failed!
+[09/03/2023 09:57:28.440][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:07:38.178][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:08:01.488][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:10:49.437][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:15:20.631][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:15:20.650][ERROR][CreateMainGameWindow] Window Registration Failed! RegisterClassExa Failed! Error 0x00000057!
+[09/03/2023 10:15:22.433][ERROR][main] CreateMainGameWindow failed!
+[09/03/2023 10:18:26.933][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:19:59.729][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:22:33.829][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:22:33.830][ERROR][CreateMainGameWindow] Window Registration Failed! RegisterClassExa Failed! Error 0x00000057!
+[09/03/2023 10:22:35.073][ERROR][main] CreateMainGameWindow failed!
+[09/03/2023 10:36:32.028][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:36:49.321][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:37:28.875][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:38:16.947][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:40:16.812][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:41:29.064][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:41:50.762][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 10:47:42.192][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:20:30.578][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:20:30.579][INFO][LoadRegistryParameters] Registry value 'Graphic' not found. Using default of 0. (RESCUE_ACE)
+[09/03/2023 11:20:30.579][INFO][LoadRegistryParameters] Graphic is 0
+[09/03/2023 11:21:06.977][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:21:06.977][INFO][LoadRegistryParameters] Registry value 'Graphic' not found. Using default of 0. (RESCUE_ACE)
+[09/03/2023 11:21:06.978][INFO][LoadRegistryParameters] Graphic is 0
+[09/03/2023 11:25:10.591][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:25:10.591][INFO][LoadRegistryParameters] Registry value 'Graphic' not found. Using default of 0. (RESCUE_ACE)
+[09/03/2023 11:25:10.592][INFO][LoadRegistryParameters] Graphic is 0
+[09/03/2023 11:25:12.060][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:25:13.590][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:25:13.728][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 11:25:13.878][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:25:14.028][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:25:14.178][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 11:25:14.328][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:25:14.461][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:25:14.628][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 11:25:14.795][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:25:17.421][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:25:17.421][INFO][LoadRegistryParameters] Graphic is 1
+[09/03/2023 11:25:30.220][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:25:30.220][INFO][LoadRegistryParameters] Graphic is 1
+[09/03/2023 11:27:37.219][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:27:37.220][INFO][LoadRegistryParameters] Graphic is 1
+[09/03/2023 11:27:39.088][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:27:39.602][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 11:27:40.286][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:27:40.536][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:27:41.135][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 11:27:41.669][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:27:42.885][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:27:43.186][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 11:28:15.171][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:28:15.171][INFO][LoadRegistryParameters] Graphic is 0
+[09/03/2023 11:28:55.923][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:28:55.923][INFO][LoadRegistryParameters] Graphic is 0
+[09/03/2023 11:29:09.020][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:29:09.020][INFO][LoadRegistryParameters] Graphic is 0
+[09/03/2023 11:29:54.780][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:29:54.781][INFO][LoadRegistryParameters] Graphic is 0
+[09/03/2023 11:29:59.663][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:30:00.597][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:30:01.346][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 11:30:01.980][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:30:05.278][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:30:05.278][INFO][LoadRegistryParameters] Graphic is 1
+[09/03/2023 11:38:49.320][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:38:49.321][INFO][LoadRegistryParameters] Graphic is 1
+[09/03/2023 11:38:50.548][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:38:51.011][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 3. 
+[09/03/2023 11:38:53.211][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 4. 
+[09/03/2023 11:38:54.745][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 11:39:11.930][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:39:11.930][INFO][LoadRegistryParameters] Graphic is 0
+[09/03/2023 11:39:12.948][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:39:13.813][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:39:14.846][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 3. 
+[09/03/2023 11:39:15.778][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 4. 
+[09/03/2023 11:39:16.645][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 11:39:17.529][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:39:18.746][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:39:19.613][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 3. 
+[09/03/2023 11:39:23.263][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 4. 
+[09/03/2023 11:39:27.830][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 11:39:32.564][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:39:34.363][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:39:36.147][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 3. 
+[09/03/2023 11:41:32.348][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:41:32.349][INFO][LoadRegistryParameters] Graphic is 3
+[09/03/2023 11:42:48.348][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 4. 
+[09/03/2023 11:42:48.695][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 11:44:08.248][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 11:44:08.249][INFO][LoadRegistryParameters] Graphic is 0
+[09/03/2023 11:44:25.967][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 1. 
+[09/03/2023 11:44:27.134][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 2. 
+[09/03/2023 11:44:28.234][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 3. 
+[09/03/2023 11:44:29.168][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 4. 
+[09/03/2023 11:44:30.234][INFO][SaveRegistryParameters] Saved 'Graphic' in registry: 0. 
+[09/03/2023 12:00:31.001][INFO][LoadRegistryParameters] LogLevel is 4
+[09/03/2023 12:00:31.002][INFO][LoadRegistryParameters] Graphic is 0
