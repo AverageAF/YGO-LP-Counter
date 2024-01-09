@@ -1607,8 +1607,4 @@ void ChangeBackgroundGraphic(void)
 Exit:
 
     return(0);
-
-    //GIT OLD TEST
-
-    //GIT BRANCH TESTING
 }
